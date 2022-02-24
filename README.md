@@ -17,7 +17,7 @@
 <p>而一部分国外知名付费VPN为<a href="/best-vpn-china/">中国VPN</a>用户量身定制了电脑翻墙模式，可以通过伪装流量的方式绕过防火长城的检测。在特殊时期也提供了大量的备用节点，而不仅限于香港、台湾、日本、新加坡这些中国大陆近距离节点。</p>
 <p>一旦IP节点被封，也会立即升级电脑VPN和协议，并且提供24/7技术支持，如果30天退款保证期限内，还能申请全额退款，完全可以无风险试用。</p>
 <p>如果你不想读完整篇文章，可以选择以下最佳电脑翻墙软件，也可以继续阅读文后更详细的VPN测评：</p>
-<div class="purple-bar-back"><ul><li>1.<a href="/go/expressvpn" target="_blank" rel="noopener">ExpressVPN</a> —— 不限带宽速度超快的电脑VPN首选，提供全球服务器，稳定运营十多年。</li><li>2.<a href="/go/pandavpn" target="_blank" rel="noreferrer noopener">PandaVPN</a> —— 中国翻墙特供，国外华人团队运营，适合国人需求。</li><li>3.<a href="/go/surfshark" target="_blank" rel="noreferrer noopener">Surfshark</a> —— 价格便宜，不限设备数量，独特的翻墙模式，美国节点很多。</li><li>4.<a href="/go/purevpn" target="_blank" rel="noreferrer noopener">PureVPN</a> —— 性价比高，连接速度快，支持高清视频播放。</li><li>5.<a href="/go/nordvpn" target="_blank" rel="noreferrer noopener">NordVPN</a> —— 全球知名VPN，提供混淆服务器，以及高级安全性。</li></ul></div>
+<div class="purple-bar-back"><ul><li>1.<a href="https://www.xvuslink.com/?a_fid=tizi_vpn&chan=gitwuxianab&data1=pcvpn" target="_blank" rel="noopener">ExpressVPN</a> —— 不限带宽速度超快的电脑VPN首选，提供全球服务器，稳定运营十多年。</li><li>2.<a href="https://www.pankvyh.xyz/r/22216799" target="_blank" rel="noreferrer noopener">PandaVPN</a> —— 中国翻墙特供，国外华人团队运营，适合国人需求。</li><li>3.<a href="https://get.surfshark.net/aff_c?offer_id=6&aff_id=3401&data1=gitwuxianab&data2=pcvpn" target="_blank" rel="noreferrer noopener">Surfshark</a> —— 价格便宜，不限设备数量，独特的翻墙模式，美国节点很多。</li><li>4.<a href="https://billing.purevpn.com/aff.php?aff=42611&data1=gitwuxianab&data2=pcvpn" target="_blank" rel="noreferrer noopener">PureVPN</a> —— 性价比高，连接速度快，支持高清视频播放。</li><li>5.<a href="http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=wuxianab&aff_sub2=pcvpn" target="_blank" rel="noreferrer noopener">NordVPN</a> —— 全球知名VPN，提供混淆服务器，以及高级安全性。</li></ul></div>
 <p>当然，这些电脑VPN不仅可以在PC端使用，还支持常见的Mac、Linux、iOS、Android平台，以及Firefox/Chrome浏览器扩展插件。</p>
 <p>游戏端支持PS5、Switch、Xbox设备，还可以在路由器上设置VPN，方便其他所有设备使用。对Windows版本兼容也很好，Windows7/8/10/11都能完美兼容。可以说覆盖了电脑、手机、平板等所有常见平台。</p>
 <h2 id="电脑vpn推荐标准">电脑VPN推荐标准</h2>
@@ -25,7 +25,7 @@
 <div class="purple-bar-back"><ul><li><strong>在中国能翻墙</strong>：防火长城GFW可以精确检测到VPN协议，所以比加密更重要的是伪装性。大多数VPN都使用的是传统的OpenVPN、IKev2、L2TP/IPsec等协议，没有在此基础上升级，因此大部分VPN稳定性都不好。但仍然有少部分VPN愿意为中国用户提供翻墙服务，开发独特的翻墙功能。</li><li><strong>全球服务器</strong>：平时最常用的节点是香港、台湾、日本、美国、新加坡等中国大陆近距离服务器，这些服务器延迟低速度快，用来翻墙访问Google、YouTube、Facebook、Twitter都是首选。英国、法国、德国等服务器可以用来解锁Netflix、Disney+、BBC iPlayer、Hulu等国外流媒体。</li><li><strong>全平台覆盖</strong>：大多数有VPN服务商都不可能只提供Windows电脑VPN，还支持Mac、Linux、iOS、Android，以及浏览器扩展、游戏机、路由器。</li><li><strong>速度快</strong>：速度也取决于多项因素，通常近距离节点可以提供更快的速度，VPN服务商提供的带宽以及线路也非常重要。而速度也直接决定了是否可以观看1080P高清视频。</li><li><strong>稳定性好</strong>：虽说无法保证全年100%不掉线，但是至少要保证大部分时间都能用。特殊时期也要及时解决问题，比如IP被墙了要更换备用节点。协议能被检测到了，要及时升级新的协议。</li><li><strong>性价比高</strong>：购买VPN不能只看价格，价格太便宜通常意味着VPN不好用。而像Astrill这样的VPN，虽然在中国能用，但是价格太贵的话也不推荐。</li></ul></div>
 <h2 id="windows电脑vpn排行">Windows电脑VPN排行</h2>
 <p>以下是目前最好用的电脑VPN推荐，它们提供了兼容性良好的PC端电脑版VPN。应用程序简单易用设计美观，即便是新手也能一键连接立即翻墙。有些还提供中国国内IP节点，是不错的海外华人<a href="/into-china/">翻墙回国VPN</a>。除此之外，还能用于玩游戏、P2P种子下载。</p>
-<h3 id="1-expressvpn-翻墙首选电脑vpn">1.<a href="/go/expressvpn" target="_blank" rel="noreferrer noopener">ExpressVPN</a> —— 翻墙首选电脑VPN</h3>
+<h3 id="1-expressvpn-翻墙首选电脑vpn">1.<a href="https://www.xvuslink.com/?a_fid=tizi_vpn&chan=gitwuxianab&data1=pcvpn" target="_blank" rel="noreferrer noopener">ExpressVPN</a> —— 翻墙首选电脑VPN</h3>
 <p>多年以来，ExpressVPN在与防火长城斗争，成为中国用户心中位居榜首的翻墙软件，针对中国市场开发的LightWay协议具有高度伪装性和安全性。</p>
 <div class="wp-block-image"><figure class="aligncenter size-full"><img loading="lazy" width="800" height="393" src="https://qiangup.com/wp-content/uploads/2021/12/expressvpn-homepage.jpg" alt="expressvpn官网" class="wp-image-2360" srcset="https://qiangup.com/wp-content/uploads/2021/12/expressvpn-homepage.jpg 800w, https://qiangup.com/wp-content/uploads/2021/12/expressvpn-homepage-300x147.jpg 300w, https://qiangup.com/wp-content/uploads/2021/12/expressvpn-homepage-768x377.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure></div>
 <p>全面的应用程序覆盖了Mac、Windows、Linux、iOS、Android常用平台，电脑VPN软件用户体验良好，并且内置Kill Switch终止开关和IP/DNS泄漏保护等安全功能。ExpressVPN还提供了Chrome、FireFox、Safari等浏览器扩展插件，一个账号允许5台设备同时连接。</p>
@@ -33,13 +33,13 @@
 <div class="wp-block-image"><figure class="aligncenter size-full"><img loading="lazy" width="800" height="311" src="https://qiangup.com/wp-content/uploads/2022/01/expressvpn-price.jpg" alt="expressvpn价格" class="wp-image-2574" srcset="https://qiangup.com/wp-content/uploads/2022/01/expressvpn-price.jpg 800w, https://qiangup.com/wp-content/uploads/2022/01/expressvpn-price-300x117.jpg 300w, https://qiangup.com/wp-content/uploads/2022/01/expressvpn-price-768x299.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure></div>
 <p>可以说ExpressVPN唯一的缺点就是价格稍高，但与Astrill每月$20的价格比起来要良心的多。使用本站提供的优惠链接可以将价格从$8.32/月降至$6.67/月。30天退款保证可以无风险试用，遇到问题也可以联系24/在线客服解决。</p>
 <div class="wp-container-6216dd7f35bcb wp-block-buttons">
-<div class="wp-block-button"><a class="wp-block-button__link" href="/go/expressvpn" style="border-radius:30px" target="_blank" rel="noopener">获取ExpressVPN优惠</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://www.xvuslink.com/?a_fid=tizi_vpn&chan=gitwuxianab&data1=pcvpn" style="border-radius:30px" target="_blank" rel="noopener">获取ExpressVPN优惠</a></div>
 </div>
 <p></p>
 <p>ExpressVPN每台服务器上都运行了TrustedServer技术，用户所有的连接数据都在内存中运行，而不会储存在磁盘中，确保了零日志策略并且通过了第三方审核。</p>
 <p>私有DNS服务器可以防止防火长城的DNS污染。拆分隧道(Split Tunneling)可以分流国内外网站，加快PC端电脑VPN翻墙软件日常上网速度。</p>
 <hr>
-<h3 id="2-pandavpn-中国电脑翻墙软件">2.<a href="/go/pandavpn" target="_blank" rel="noreferrer noopener">PandaVPN</a> —— 中国电脑翻墙软件</h3>
+<h3 id="2-pandavpn-中国电脑翻墙软件">2.<a href="https://www.pankvyh.xyz/r/22216799" target="_blank" rel="noreferrer noopener">PandaVPN</a> —— 中国电脑翻墙软件</h3>
 <p>PandaVPN由身在国外的华人团队运营，专注解决中国用户科学上网问题，所以又被称为熊猫VPN。经过几年的发展，已经在翻墙用户中拥有一定名气。</p>
 <div class="wp-block-image"><figure class="aligncenter size-full"><img loading="lazy" width="800" height="376" src="https://qiangup.com/wp-content/uploads/2021/12/pandavpn-homepage.jpg" alt="pandavpn官网" class="wp-image-2362" srcset="https://qiangup.com/wp-content/uploads/2021/12/pandavpn-homepage.jpg 800w, https://qiangup.com/wp-content/uploads/2021/12/pandavpn-homepage-300x141.jpg 300w, https://qiangup.com/wp-content/uploads/2021/12/pandavpn-homepage-768x361.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure></div>
 <p>PandaVPN目前在全球80个国家170个城市，拥有超过3000台服务器。其中提供了大量中国大陆近距离节点，低延迟的香港、台湾、日本节点可以快速翻墙访问Google、Facebook、Twitter、Instagram等国外流行网站，还能用于跨服玩游戏。</p>
@@ -48,10 +48,10 @@
 <div class="wp-block-image"><figure class="aligncenter size-full"><img loading="lazy" width="800" height="290" src="https://qiangup.com/wp-content/uploads/2022/01/pandavpn-price.jpg" alt="pandavpn价格" class="wp-image-2576" srcset="https://qiangup.com/wp-content/uploads/2022/01/pandavpn-price.jpg 800w, https://qiangup.com/wp-content/uploads/2022/01/pandavpn-price-300x109.jpg 300w, https://qiangup.com/wp-content/uploads/2022/01/pandavpn-price-768x278.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure></div>
 <p>PandaVPN价格非常便宜每月只需$2.77，提供7天退款保证，这在中国VPN服务商中已不多见。购买PandaVPN非常方便，中国用户可以通过银联储蓄卡、银联信用卡、Visa信用卡、PayPal、比特币等方式支付。</p>
 <div class="wp-container-6216dd7f35fb1 wp-block-buttons">
-<div class="wp-block-button"><a class="wp-block-button__link" href="/go/pandavpn" style="border-radius:30px" target="_blank" rel="noopener">获取PandaVPN优惠</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://www.pankvyh.xyz/r/22216799" style="border-radius:30px" target="_blank" rel="noopener">获取PandaVPN优惠</a></div>
 </div>
 <hr>
-<h3 id="3-surfshark-不限设备数量的电脑vpn">3.<a href="/go/surfshark" target="_blank" rel="noreferrer noopener">Surfshark</a> —— 不限设备数量的电脑VPN</h3>
+<h3 id="3-surfshark-不限设备数量的电脑vpn">3.<a href="https://get.surfshark.net/aff_c?offer_id=6&aff_id=3401&data1=gitwuxianab&data2=pcvpn" target="_blank" rel="noreferrer noopener">Surfshark</a> —— 不限设备数量的电脑VPN</h3>
 <p>Surfshark是VPN市场中的新人，但凭借良好的翻墙体验，以及便宜的价格和不限设备数量，赢得了中国用户的认可。</p>
 <div class="wp-block-image"><figure class="aligncenter size-full"><img loading="lazy" width="800" height="394" src="https://qiangup.com/wp-content/uploads/2021/12/surfshark-homepage.jpg" alt="surfshark官网" class="wp-image-2364" srcset="https://qiangup.com/wp-content/uploads/2021/12/surfshark-homepage.jpg 800w, https://qiangup.com/wp-content/uploads/2021/12/surfshark-homepage-300x148.jpg 300w, https://qiangup.com/wp-content/uploads/2021/12/surfshark-homepage-768x378.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure></div>
 <p>Surfshark支持Mac、Windows、Linux、iOS、Android以及Firefox/Chrome浏览器扩展插件，PC端电脑VPN的CleanWeb可以过滤广告、恶意软件和钓鱼网站。</p>
@@ -60,13 +60,13 @@
 <div class="wp-block-image"><figure class="aligncenter size-full"><img src="https://qiangup.com/wp-content/uploads/2022/01/surfshark-price.jpg" alt="surfshark价格" class="wp-image-2578" /></figure></div>
 <p>每月$2.49的价格让Surfshark成为一款好用且<a href="/cheap-vpn/">便宜的VPN</a>，黑五优惠优惠折扣也很大。支持Visa信用卡、PayPal、比特币付款，通过香港IP访问官网还可以通过支付宝付款。提供30天退款保证和24/7在线客服支持。</p>
 <div class="wp-container-6216dd7f36332 wp-block-buttons">
-<div class="wp-block-button"><a class="wp-block-button__link" href="/go/surfshark" style="border-radius:30px" target="_blank" rel="noopener">获取Surfshark优惠</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://get.surfshark.net/aff_c?offer_id=6&aff_id=3401&data1=gitwuxianab&data2=pcvpn" style="border-radius:30px" target="_blank" rel="noopener">获取Surfshark优惠</a></div>
 </div>
 <p></p>
 <p>银行级别的AES-256-GCM加密可以保护连接数据，并且已经通过了Cure53的安全审核。在连接到不安全的公共WiFi时也能保护隐私数据。</p>
 <p>在电脑VPN上配置Bypasser功能可以分流国内外网站，加快国内应用程序和网站的访问速度。附加的私有搜索引擎和私有邮箱可以过滤垃圾信息，并提供完美的隐私保护。</p>
 <hr>
-<h3 id="4-purevpn-便宜性价比高的电脑vpn">4.<a href="/go/purevpn" target="_blank" rel="noreferrer noopener">PureVPN</a> —— 便宜性价比高的电脑VPN</h3>
+<h3 id="4-purevpn-便宜性价比高的电脑vpn">4.<a href="https://billing.purevpn.com/aff.php?aff=42611&data1=gitwuxianab&data2=pcvpn" target="_blank" rel="noreferrer noopener">PureVPN</a> —— 便宜性价比高的电脑VPN</h3>
 <p>PureVPN早期成立于香港，拥有丰富的翻墙经验和技术，运营时间长信用良好，官网也有全中文支持，价格便宜用户体验友好。</p>
 <div class="wp-block-image"><figure class="aligncenter size-full"><img loading="lazy" width="800" height="390" src="https://qiangup.com/wp-content/uploads/2021/12/purevpn-homepage.jpg" alt="purevpn官网" class="wp-image-2363" srcset="https://qiangup.com/wp-content/uploads/2021/12/purevpn-homepage.jpg 800w, https://qiangup.com/wp-content/uploads/2021/12/purevpn-homepage-300x146.jpg 300w, https://qiangup.com/wp-content/uploads/2021/12/purevpn-homepage-768x374.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure></div>
 <p>PureVPN支持电脑VPN在内的20十多种平台，包括常见的Mac、Windows、Linux、iOS、Android操作系统等，以及路由器、Chrome浏览器、FireFox浏览器、游戏机和智能电视。</p>
@@ -75,13 +75,13 @@
 <div class="wp-block-image"><figure class="aligncenter size-full"><img loading="lazy" width="250" height="252" src="https://qiangup.com/wp-content/uploads/2022/01/purevpn-price.jpg" alt="purevpn价格" class="wp-image-2586" srcset="https://qiangup.com/wp-content/uploads/2022/01/purevpn-price.jpg 250w, https://qiangup.com/wp-content/uploads/2022/01/purevpn-price-150x150.jpg 150w" sizes="(max-width: 250px) 100vw, 250px" /></figure></div>
 <p>价格方面PureVPN也极具竞争力，本站提供的PureVPN优惠可将价格降至每月$1.99。比较有趣的是，PureVPN提供31天退款保证，比其他大多数服务商要多一天。</p>
 <div class="wp-container-6216dd7f366ce wp-block-buttons">
-<div class="wp-block-button"><a class="wp-block-button__link" href="/go/purevpn" style="border-radius:30px" target="_blank" rel="noopener">获取PureVPN优惠</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://billing.purevpn.com/aff.php?aff=42611&data1=gitwuxianab&data2=pcvpn" style="border-radius:30px" target="_blank" rel="noopener">获取PureVPN优惠</a></div>
 </div>
 <p></p>
 <p>PureVPN是为数不多提供固定(独立/静态)IP的VPN，适合用来绕过Facebook等网站的IP检测，可以满足外贸人士、海外留学生的特殊需求。</p>
 <p>端口转发功能可以让你远程操作电脑和手机设备。高级AES-256加密技术能够保护数据安全，每台服务器都严格遵守无日志策略。</p>
 <hr>
-<h3 id="5-nordvpn-安全性高的电脑vpn">5.<a href="/go/nordvpn" target="_blank" rel="noreferrer noopener">NordVPN</a> —— 安全性高的电脑VPN</h3>
+<h3 id="5-nordvpn-安全性高的电脑vpn">5.<a href="http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=wuxianab&aff_sub2=pcvpn" target="_blank" rel="noreferrer noopener">NordVPN</a> —— 安全性高的电脑VPN</h3>
 <p>NordVPN一直都走在技术前沿，其混淆服务器在中国翻墙稳定性不错，能够绕过防火长城的检测，安全性也是公认的行业标杆。</p>
 <div class="wp-block-image"><figure class="aligncenter size-full"><img loading="lazy" width="800" height="393" src="https://qiangup.com/wp-content/uploads/2021/12/nordvpn-homepage.jpg" alt="nordvpn官网" class="wp-image-2361" srcset="https://qiangup.com/wp-content/uploads/2021/12/nordvpn-homepage.jpg 800w, https://qiangup.com/wp-content/uploads/2021/12/nordvpn-homepage-300x147.jpg 300w, https://qiangup.com/wp-content/uploads/2021/12/nordvpn-homepage-768x377.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure></div>
 <p>全球部署有5271+台高速服务器，分布在60个国家/地区。台湾、日本、美国节点提供混淆服务器，还提供英国、德国、荷兰、法国独立IP地址。</p>
@@ -90,7 +90,7 @@
 <div class="wp-block-image"><figure class="aligncenter size-full"><img loading="lazy" width="800" height="233" src="https://qiangup.com/wp-content/uploads/2022/01/nordvpn-price.jpg" alt="nordvpn价格" class="wp-image-2575" srcset="https://qiangup.com/wp-content/uploads/2022/01/nordvpn-price.jpg 800w, https://qiangup.com/wp-content/uploads/2022/01/nordvpn-price-300x87.jpg 300w, https://qiangup.com/wp-content/uploads/2022/01/nordvpn-price-768x224.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure></div>
 <p>NordVPN两年套餐的价格是每月$3.71，如果不需要NordPass密码管理软件，可以在购买页面删除。目前支持Visa信用卡、银联信用卡以及加密货币付款，提供30天退款保证。</p>
 <div class="wp-container-6216dd7f36a57 wp-block-buttons">
-<div class="wp-block-button"><a class="wp-block-button__link" href="/go/nordvpn" style="border-radius:30px" target="_blank" rel="noopener">获取NordVPN优惠</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link" href="http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=wuxianab&aff_sub2=pcvpn" style="border-radius:30px" target="_blank" rel="noopener">获取NordVPN优惠</a></div>
 </div>
 <p></p>
 <p>客户端内置的CyberSec可以屏蔽广告和恶意软件，电脑端VPN还支持拆分隧道、多跳IP、终止开关(Kill Switch)。所有服务器都有私有DNS服务器，没有IP/DNS泄露问题。</p>
